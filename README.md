@@ -9,3 +9,4 @@
 ![image](https://user-images.githubusercontent.com/81310818/123550314-4d1bb280-d76d-11eb-8ca0-cec48b286461.png)<br>
 
 > **V E N A X**<br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56379f39-69c2-480e-9267-865ededcd39a/deploy-status)](https://app.netlify.com/sites/jav232insta/deploys)
